@@ -1,4 +1,4 @@
-# pet
+# Pet Flutter
 
 A new Flutter project.
 
